@@ -21,12 +21,6 @@ It focuses on layout styling, background images, buttons, and navigation using p
 ## 🔹 Live Demo
 👉 https://shooqasfor.github.io/css-course-landing1/
 
-## 🔹 File Structure
-css-course-landing
-├── index.html
-├── style.css
-└── images
-
 ## ✨ Author
 **Shooq Abdallah**  
 Learning Full-Stack JavaScript
