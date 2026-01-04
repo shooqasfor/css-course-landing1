@@ -16,8 +16,17 @@ It focuses on layout styling, background images, buttons, and navigation using p
 - Call-to-action button
 - Organized file structure
 - Deployed using GitHub Pages
+- Visual elements built using CSS & SVG instead of static images
 
 ## 🔹 Live Demo
 👉 https://shooqasfor.github.io/css-course-landing1/
 
 ## 🔹 File Structure
+css-course-landing
+├── index.html
+├── style.css
+└── images
+
+## ✨ Author
+**Shooq Abdallah**  
+Learning Full-Stack JavaScript
